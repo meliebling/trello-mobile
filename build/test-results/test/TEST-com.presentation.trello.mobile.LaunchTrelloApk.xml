@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.presentation.trello.mobile.LaunchTrelloApk" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-22T11:42:34" hostname="LAPTOP-A6DBDQTL" time="0.001">
+  <properties/>
+  <testcase name="testOpenUp" classname="com.presentation.trello.mobile.LaunchTrelloApk" time="0.001"/>
+  <system-out><![CDATA[Trello launched
+]]></system-out>
+  <system-err><![CDATA[Feb 22, 2020 1:42:34 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
