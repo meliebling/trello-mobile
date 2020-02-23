@@ -34,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunManager">
     <configuration name="LaunchTrelloApk.testOpenUp" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -99,25 +99,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="146" key="#Tests_in_'com.presentation.trello-mobile'/0.0.1920.1040@0.0.1920.1040" timestamp="1582370508156" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582371742831">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582377577500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582371742831" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582371742831">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582377577500" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582377577500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582371742831" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582371742831">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582377577500" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582377577500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582371742831" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582371742831">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582377577500" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582377577500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582371742831" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1582376579924">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582377577500" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582401699597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582376579924" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582401699597" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582475617083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582475617083" />
   </component>
 </project>
